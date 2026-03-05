@@ -1,0 +1,4 @@
+{
+  "model_type": "rule_based",
+  "description": "Rule-based baseline using business risk drivers"
+}
